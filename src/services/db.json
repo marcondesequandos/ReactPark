@@ -1,0 +1,74 @@
+{
+  "carrosEstacionados": [
+    {
+      "placa": "HHH-3333",
+      "cor": "Preto",
+      "marca": "Fiat",
+      "modelo": "Palio",
+      "dataHoraEntrada": "10/03/2021 21:55:00",
+      "dataHoraSaida": "10/2/2021 22:28:2",
+      "status": "true",
+      "id": 1
+    },
+    {
+      "placa": "HHH-3399",
+      "cor": "Prata",
+      "marca": "GM",
+      "modelo": "Cobalt",
+      "dataHoraEntrada": "10/03/2021 21:55:00",
+      "dataHoraSaida": "10/2/2021 21:51:31",
+      "status": "true",
+      "id": 2
+    },
+    {
+      "placa": "HHH-3377",
+      "cor": "Branco",
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "dataHoraEntrada": "10/03/2021 21:55:00",
+      "dataHoraSaida": "10/2/2021 22:51:26",
+      "status": "false",
+      "id": 3
+    },
+    {
+      "placa": "ZZZ-3333",
+      "cor": "Verde",
+      "marca": "Volkswagen",
+      "modelo": "Passat",
+      "dataHoraEntrada": "9/2/2021 22:14:4",
+      "dataHoraSaida": "10/2/2021 22:28:3",
+      "status": "true",
+      "id": 4
+    },
+    {
+      "placa": "ZZZ-3334",
+      "cor": "Vinho",
+      "marca": "Volkswagen",
+      "modelo": "Gol",
+      "dataHoraEntrada": "9/2/2021 22:19:10",
+      "dataHoraSaida": "",
+      "status": "true",
+      "id": 5
+    },
+    {
+      "placa": "UUZ-7690",
+      "cor": "Vermelho",
+      "marca": "Volkswagen",
+      "modelo": "Karmann Ghia",
+      "dataHoraEntrada": "10/2/2021 22:39:26",
+      "dataHoraSaida": "",
+      "status": "true",
+      "id": 6
+    },
+    {
+      "placa": "UXL-7930",
+      "cor": "Verde",
+      "marca": "Fiat",
+      "modelo": "Uno",
+      "dataHoraEntrada": "11/2/2021 22:15:51",
+      "dataHoraSaida": "",
+      "status": "true",
+      "id": 7
+    }
+  ]
+}
